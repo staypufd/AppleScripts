@@ -1,0 +1,1 @@
+These two scripts allow you to set the rotation setting for a Display that you have either to Landscape or Portrait.
